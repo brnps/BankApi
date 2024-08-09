@@ -34,7 +34,7 @@ Este é um projeto FastAPI que implementa uma API para gerenciamento de contas c
 3. **Instale as dependências:**
 
   ```bash
-   source venv/bin/activate
+   pip install -r requirements.txt
    ```
 
 3. **Executando o Projeto:**
